@@ -20,4 +20,5 @@
 Почта
 <!-- max.radzey@yandex.ru -->
 [max.radzey\@yandex.ru](mailto:max.radzey@yandex.ru?subject=Test)
+<br>
 <a href='https://t.me/max_rrr'>![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
