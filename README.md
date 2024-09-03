@@ -1,6 +1,7 @@
 # Радзей Максим
 
  <ul>
+  <li><a href='https://github.com/MaxRadzey/getting_emails_list/blob/main/README.md'>Служба обработки электронной почты</a></li>
   <li><a href='https://github.com/MaxRadzey/foodgram-project-react'>Сервис для сбора и публикации рецептов</a></li>
   <li><a href='https://github.com/MaxRadzey/api_yamdb'>API сервис оценки пользователями произведений с возможностью оставления отзывов</a></li>
   <br>
